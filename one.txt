@@ -1,6 +1,1 @@
 one
-main
-new
-new
-new
-main
