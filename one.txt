@@ -1,2 +1,6 @@
 one
+<<<<<<< HEAD
 in branch F using checkout
+=======
+in branch new
+>>>>>>> new
