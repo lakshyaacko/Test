@@ -1,8 +1,2 @@
 one
 main
-<<<<<<< HEAD
-
-new
-new
-
-main
